@@ -18,6 +18,7 @@ Step 4:
 Save the pages once you're done.
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94165326/152012319-77cb474c-8add-409c-9d58-117f94aa12ca.png)
 
 
 
