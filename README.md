@@ -19,6 +19,8 @@ Save the pages once you're done.
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/94165326/152014489-49e6235a-b5a7-4c7f-9ca8-38132a8c0c85.png)
+![image](https://user-images.githubusercontent.com/94165326/152014583-dc2af3a4-e158-4bd1-8097-1a17013d7798.png)
+
 
 
 ## Result:
