@@ -18,8 +18,8 @@ Duplicate the layout and modify the further pages.
 Save the pages once you're done.
 
 ## OUTPUT:
-include your output screenshots 
-
-
+![output]C:\Users\raksh\Downloads\wireframeproject\home.jpeg
+![output]C:\Users\raksh\Downloads\wireframeproject\home training.jpeg
+![output]C:\Users\raksh\Downloads\wireframeproject\about us.jpeg
 ## Result:
 Thus a wire frame is designed for a given website.
