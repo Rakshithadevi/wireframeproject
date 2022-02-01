@@ -18,6 +18,8 @@ Step 4:
 Save the pages once you're done.
 
 ## OUTPUT:
+![image](https://user-images.githubusercontent.com/94165326/152014489-49e6235a-b5a7-4c7f-9ca8-38132a8c0c85.png)
+
 
 ## Result:
 Thus a wire frame is designed for a given website.
